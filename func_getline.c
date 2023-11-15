@@ -47,7 +47,7 @@ char *_getline()
 
 /**
  * hashtag_handle - remove everything after #
- * @buff: input
+ * @buffer: input
  * Return: returns void
  */
 
