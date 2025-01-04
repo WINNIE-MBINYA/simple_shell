@@ -1,6 +1,6 @@
 <h2>0x16. C - Simple Shell</h2>
 
-This project serves to replicate the working of a shell terminal programmed using the C language
+This project replicates the working of a shell terminal programmed using the C language
 
 <h3>Learning Objectives</h3>
 Who designed and implemented the original Unix operating system
